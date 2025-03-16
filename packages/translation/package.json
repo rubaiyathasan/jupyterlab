@@ -40,8 +40,8 @@
   "dependencies": {
     "@jupyterlab/coreutils": "^6.1.2",
     "@jupyterlab/rendermime-interfaces": "^3.9.2",
-    "@jupyterlab/services": "^7.1.2",
-    "@jupyterlab/statedb": "^4.1.2",
+    "@jupyterlab/services": "^0.22.0",
+    "@jupyterlab/statedb": "^2.0.0",
     "@lumino/coreutils": "^2.1.2"
   },
   "devDependencies": {
