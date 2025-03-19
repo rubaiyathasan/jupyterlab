@@ -37,7 +37,7 @@
   },
   "dependencies": {
     "@jupyterlab/application": "^4.1.2",
-    "@jupyterlab/codemirror": "^4.1.2",
+    "@jupyterlab/codemirror": "^0.1.1",
     "@jupyterlab/coreutils": "^6.1.2",
     "@jupyterlab/mermaid": "^4.1.2",
     "@jupyterlab/rendermime": "^4.1.2",
