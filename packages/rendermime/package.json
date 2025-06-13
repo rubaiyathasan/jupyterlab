@@ -42,11 +42,11 @@
     "watch": "tsc -b --watch"
   },
   "dependencies": {
-    "@jupyterlab/apputils": "^4.2.2",
-    "@jupyterlab/coreutils": "^6.1.2",
-    "@jupyterlab/nbformat": "^4.1.2",
+    "@jupyterlab/apputils": "^0.1.1",
+    "@jupyterlab/coreutils": "^0.1.1",
+    "@jupyterlab/nbformat": "^2.0.0",
     "@jupyterlab/observables": "^5.1.2",
-    "@jupyterlab/rendermime-interfaces": "^3.9.2",
+    "@jupyterlab/rendermime-interfaces": "^0.2.0",
     "@jupyterlab/services": "^7.1.2",
     "@jupyterlab/translation": "^4.1.2",
     "@lumino/coreutils": "^2.1.2",
