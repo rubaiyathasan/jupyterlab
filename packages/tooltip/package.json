@@ -38,7 +38,7 @@
   },
   "dependencies": {
     "@jupyterlab/codeeditor": "^4.1.2",
-    "@jupyterlab/rendermime": "^4.1.2",
+    "@jupyterlab/rendermime": "^3.0.0",
     "@jupyterlab/services": "^7.1.2",
     "@jupyterlab/ui-components": "^4.1.2",
     "@lumino/coreutils": "^2.1.2",
