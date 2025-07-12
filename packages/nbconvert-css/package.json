@@ -32,10 +32,10 @@
   },
   "dependencies": {
     "@jupyterlab/application": "^4.1.2",
-    "@jupyterlab/apputils": "^4.2.2",
+    "@jupyterlab/apputils": "^3.5.1",
     "@jupyterlab/cells": "^4.1.2",
     "@jupyterlab/codemirror": "^4.1.2",
-    "@jupyterlab/notebook": "^4.1.2",
+    "@jupyterlab/notebook": "^3.0.0",
     "@jupyterlab/outputarea": "^4.1.2",
     "@jupyterlab/rendermime": "^4.1.2"
   },
