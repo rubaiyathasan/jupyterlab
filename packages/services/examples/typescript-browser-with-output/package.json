@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "@jupyterlab/coreutils": "^6.1.2",
-    "@jupyterlab/outputarea": "^4.1.2",
+    "@jupyterlab/outputarea": "^3.0.0",
     "@jupyterlab/rendermime": "^4.1.2",
     "@jupyterlab/services": "^7.1.2"
   },
