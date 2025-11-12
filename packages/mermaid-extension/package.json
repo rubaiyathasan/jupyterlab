@@ -39,7 +39,7 @@
   "dependencies": {
     "@jupyterlab/application": "^4.1.2",
     "@jupyterlab/apputils": "^4.2.2",
-    "@jupyterlab/mermaid": "^4.1.2",
+    "@jupyterlab/mermaid": "^4.1.0",
     "@jupyterlab/rendermime-interfaces": "^3.9.2",
     "@jupyterlab/translation": "^4.1.2"
   },
