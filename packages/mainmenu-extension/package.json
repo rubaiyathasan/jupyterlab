@@ -39,10 +39,10 @@
   },
   "dependencies": {
     "@jupyterlab/application": "^4.1.2",
-    "@jupyterlab/apputils": "^4.2.2",
+    "@jupyterlab/apputils": "^0.1.1",
     "@jupyterlab/coreutils": "^6.1.2",
-    "@jupyterlab/mainmenu": "^4.1.2",
-    "@jupyterlab/services": "^7.1.2",
+    "@jupyterlab/mainmenu": "^0.2.0",
+    "@jupyterlab/services": "^0.22.0",
     "@jupyterlab/settingregistry": "^4.1.2",
     "@jupyterlab/translation": "^4.1.2",
     "@jupyterlab/ui-components": "^4.1.2",
